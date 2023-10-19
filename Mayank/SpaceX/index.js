@@ -4,6 +4,7 @@ b()
 console.log(x)
 
 
+
 function a (){
     x = 10 
     console.log(x);
