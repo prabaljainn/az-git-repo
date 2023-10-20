@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-image: url('https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_G7_3_OS_56_5196_Desktop_501dcd8c6a.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+body{
+    font-family: "DIN MEDIUM", Arial, Verdana, sans-serif;
+}
+
+#logo{
+    height: auto;
+    width:100%;
+}
+nav{
+    height: 60px;
+    padding: 15px;
+    margin-left: 60px;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: baseline;
+    color: white;
+    
+}
+
+#logo .fill-white {
+    fill: #fff;
+}
+li{
+    list-style: none;
+    margin-left: 25px;
+    font-size: 13px;
+}
+
+ul{
+    display: flex;
+}
+.mid{
+    margin-right: 180px;
+}
+
