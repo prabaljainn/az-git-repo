@@ -7,6 +7,12 @@
 
 # MILESTONE TASK 2
 
+## Completed all level of flexbox froggy challenge
+![Flexbox_froggy][https://github.com/ankitshaw1131/az-git-repo/blob/main/ANKIT_IEM/IMAGES/flexbox_froggy.jpeg]
+
+## changing youtube background images and text
+![Youtube][https://github.com/ankitshaw1131/az-git-repo/blob/main/ANKIT_IEM/IMAGES/youtube.jpeg]
+
 ## THE TASK WAS TO CREATE A NAVBAR
 
 ![TASK_2](https://github.com/ankitshaw1131/az-git-repo/assets/95436976/aaf806de-17d4-4b82-a9f5-83ae569a46d5)
