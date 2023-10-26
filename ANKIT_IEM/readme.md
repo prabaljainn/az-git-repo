@@ -1,7 +1,7 @@
 # MILESTONE TASK 1
 
 ## THE TASK WAS TO BEAUTIFY A HTML FILE AND I HAVE DONE THAT USING SIMPLE CSS
-![TASK_1](https://github.com/ankitshaw1131/az-git-repo/blob/main/ANKIT_IEM/IMAGES/TASK_1.png)
+![TASK_1](https://github.com/ankitshaw1131/az-git-repo/assets/95436976/e41ef759-2f94-428d-bb9d-39a75720d91d)
 
 ![TASK_1_NEXT](https://github.com/ankitshaw1131/az-git-repo/assets/95436976/e8fec2e7-7e42-4ce5-b77c-90f672e0032c)
 
