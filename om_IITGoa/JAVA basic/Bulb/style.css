@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+.bulb{
+    color: red;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+}
+button{
+    color: black;
+}
+.green{
+    color: green;
+}
