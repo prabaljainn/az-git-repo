@@ -1,0 +1,56 @@
+@font-face {
+  font-family: spaceXfont;
+  src: url(https://db.onlinewebfonts.com/t/bce457c531b548d9b4455b1fbe5adbaa.woff);
+}
+
+nav {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	margin-left: 10%;
+	margin-right: 5%;
+}
+
+.items-left {
+	flex-grow: 10;
+	/* overflow: hidden; */
+}
+
+.items-right {
+	margin-left: 5%;
+}
+.items-left ul {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	font-size: 14px;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	font-family: spaceXfont;
+}
+.items-left ul li {
+	margin-inline: 10px;
+	cursor: pointer;
+	text-wrap:nowrap;
+	font-family: spaceXfont;
+}
+
+.items-right ul {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	font-size: 14px;
+	flex-wrap: nowrap;
+	align-items: center;
+	min-width: 70px;
+	justify-content: space-between;
+	font-family: spaceXfont
+}
+
+.items-right ul li {
+	margin-inline: 10px;
+	cursor: pointer;
+	font-family: spaceXfont;
+}
