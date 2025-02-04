@@ -1,0 +1,57 @@
+
+html {
+	background-color: beige;
+}
+
+header {
+	text-align: center;
+	background-color: yellow;
+	border-style: solid;
+}
+
+section {
+	font-size: 20px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: chocolate;
+}
+
+p {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+table, th, td {
+	border: 1px solid;
+	border-radius: 5px;
+	margin: auto;
+}
+
+thead {
+	background-color: lime;
+}
+tbody {
+	background-color: greenyellow;
+}
+
+.crumb {
+  list-style-type: none;
+  padding-left: 0;
+	font-size: larger;
+}
+
+figure {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+figure img {
+	vertical-align: top;
+	border-radius: 15px;
+}
+figure figcaption {
+	/* border: 1px dotted blue; */
+	text-align: center;
+}
